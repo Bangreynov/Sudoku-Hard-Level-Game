@@ -1,0 +1,20 @@
+{
+  "short_name": "Hard-Sudoku.com",
+  "name": "Hard-Sudoku Web App",
+  "icons": [
+    {
+      "src": "img/icon192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "img/icon512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://hard-sudoku.com",
+  "background_color": "#f8fbff",
+  "display": "standalone",
+  "theme_color": "#f8fbff"
+}
