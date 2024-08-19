@@ -17,7 +17,11 @@
  <div id="printableArea">
     <div id="GameView"></div>
  </div>
-
+<script type="text/JavaScript">
+ function Redirect() {
+window.location.assign("https://hard-sudoku.com/?github");
+ }
+</script>
 
 	<script src="../sudoku/sudoku.js"></script>
 	<script>
